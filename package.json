@@ -1,0 +1,25 @@
+{
+  "name": "ie-array-find-polyfill",
+  "version": "1.0.0",
+  "description": "Polyfill to provide array.find on IE.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdalla/ie-array-find-polyfill.git"
+  },
+  "keywords": [
+    "ie",
+    "polyfill",
+    "array",
+    "find"
+  ],
+  "author": "Carlos Abdalla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abdalla/ie-array-find-polyfill/issues"
+  },
+  "homepage": "https://github.com/abdalla/ie-array-find-polyfill#readme"
+}
