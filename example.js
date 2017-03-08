@@ -1,22 +1,7 @@
-# ie-array-find-polyfill
-Polyfill to provide array.find on IE.
-
-# Installation
-To install the stable version:
-
-```zsh
-npm install ie-array-find-polyfill --save
-```
-
-# Use
-```javascript
-import ie-array-find-polyfill
-```
-
-# Example
-```javascript
 'use strict';
-require('ie-array-find-polyfill');
+
+//require('ie-array-find-polyfill');
+require('./index.js');
 
 const people = [
     {
@@ -54,15 +39,3 @@ console.log('babies: ', babies);
 console.log('teems: ', teems);
 console.log('adults: ', adults);
 console.log('classicGuys: ', classicGuys);
-```
-
-```zsh
->node example.js
-
-//RESULT
-babies:  { name: 'Baby Due', age: 3 }
-teems:  { name: 'Junior Manson', age: 20 }
-adults:  { name: 'Joe Due', age: 35 }
-classicGuys:  { name: 'Parker Manson', age: 75 }
-```
-
