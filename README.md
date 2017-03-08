@@ -24,20 +24,12 @@ const people = [
         age: 35
     },
     {
-        name: 'Peter Belt',
-        age: 30
-    },
-    {
         name: 'Parker Manson',
         age: 75
     },
     {
         name: 'Junior Manson',
         age: 20
-    },
-    {
-        name: 'Mary Due Manson',
-        age: 21
     },
     {
         name: 'Baby Due',
