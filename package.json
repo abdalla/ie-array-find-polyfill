@@ -1,6 +1,6 @@
 {
   "name": "ie-array-find-polyfill",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Polyfill to provide array.find on IE.",
   "main": "index.js",
   "scripts": {
