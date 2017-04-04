@@ -10,7 +10,7 @@ npm install ie-array-find-polyfill --save
 
 # Use
 ```javascript
-import ie-array-find-polyfill
+import "ie-array-find-polyfill";
 ```
 
 # Example
